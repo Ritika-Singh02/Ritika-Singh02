@@ -2,14 +2,15 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <!-- <img align="right" width="400" height="400" alt="coding" src="https://github.com/user-attachments/assets/ebbd2f06-b8cf-45f5-84d2-4231e7f37dff" />
 > -->
-<img align="right" width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/8ecbfa7b-8d08-4576-becb-b10b98e1c244" />
+<!--  -->
+<img align="right" width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/a4a702df-a230-4d81-ac92-2d71ce5144e2" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritika-singh02&label=Profile%20views&color=0e75b6&style=flat" alt="ritika-singh02" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ritika singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritika singh" height="30" width="40" /></a>
+<a href="https<img align="right" width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/8ecbfa7b-8d08-4576-becb-b10b98e1c244" />://linkedin.com/in/ritika singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritika singh" height="30" width="40" /></a>
 <a href="https://fb.com/ritika singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ritika singh" height="30" width="40" /></a>
 <a href="https://instagram.com/crazy_ritika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="crazy_ritika" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@crazy_ritika02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@crazy_ritika02" height="30" width="40" /></a>
