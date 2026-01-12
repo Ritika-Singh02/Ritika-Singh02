@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritika Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/70192182-4709-48b1-8aa2-c48669b6e371" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritika-singh02&label=Profile%20views&color=0e75b6&style=flat" alt="ritika-singh02" /> </p>
 
