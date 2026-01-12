@@ -2,8 +2,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <!-- <img align="right" width="400" height="400" alt="coding" src="https://github.com/user-attachments/assets/ebbd2f06-b8cf-45f5-84d2-4231e7f37dff" />
 > -->
-<!--  -->
-<img align="right" width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/a4a702df-a230-4d81-ac92-2d71ce5144e2" />
+<!-- <img align="right" width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/1d4b98c2-62d2-42e4-a33b-32f353e0012c" /> -->
+
+<img  align="right" width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/c6009326-f02c-4595-a1dd-5ebd37c705df" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritika-singh02&label=Profile%20views&color=0e75b6&style=flat" alt="ritika-singh02" /> </p>
